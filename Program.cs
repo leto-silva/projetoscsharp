@@ -3,7 +3,17 @@ using System.Reflection;
 using projeto03.Models;
 using Newtonsoft.Json;
 
-bool? desejaReceberEmail = null;
+bool? desejaReceberEmail = true;
+
+if(desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+{
+    Console.WriteLine("O usuário optou por receber e-mail");
+}
+else
+{
+    Console.WriteLine("O usuario não optou ou não quer receber email");
+}
+
 
 
 
