@@ -1,0 +1,17 @@
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\projeto03.exe
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\projeto03.deps.json
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\projeto03.runtimeconfig.json
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\projeto03.dll
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\projeto03.pdb
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.csproj.AssemblyReference.cache
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.AssemblyInfo.cs
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.dll
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\refint\projeto03.dll
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.pdb
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.genruntimeconfig.cache
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\ref\projeto03.dll
+C:\Temp\Projetos\Csharp\projeto03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Temp\Projetos\Csharp\projeto03\obj\Debug\net7.0\projeto03.csproj.CopyComplete
