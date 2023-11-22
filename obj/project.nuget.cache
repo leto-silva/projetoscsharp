@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHWVPVWk701i4My9ebDsxIWYGiMyTdoxumgh8SSlxRZm6AcLGps/Z46ayoCnGFabstu60v2nKNjol3LkKmW7ZQ==",
+  "dgSpecHash": "g2OIzsP2r3N8cQMZJf31H0prrtUumSkO+JmJO2cquGffWhU1VWCdmUAz+EY2l9vQ0ndDKlfa8sQ3cVhxqjm8ig==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\Projetos\\Csharp\\projeto03\\projeto03.csproj",
+  "projectFilePath": "C:\\Temp\\Projetos\\projetoscsharp\\projeto03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0100270\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

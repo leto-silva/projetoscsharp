@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\Projetos\\Csharp\\projeto03\\projeto03.csproj": {}
+    "C:\\Temp\\Projetos\\projetoscsharp\\projeto03.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\Projetos\\Csharp\\projeto03\\projeto03.csproj": {
+    "C:\\Temp\\Projetos\\projetoscsharp\\projeto03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\Projetos\\Csharp\\projeto03\\projeto03.csproj",
+        "projectUniqueName": "C:\\Temp\\Projetos\\projetoscsharp\\projeto03.csproj",
         "projectName": "projeto03",
-        "projectPath": "C:\\Temp\\Projetos\\Csharp\\projeto03\\projeto03.csproj",
+        "projectPath": "C:\\Temp\\Projetos\\projetoscsharp\\projeto03.csproj",
         "packagesPath": "C:\\Users\\0100270\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\Projetos\\Csharp\\projeto03\\obj\\",
+        "outputPath": "C:\\Temp\\Projetos\\projetoscsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0100270\\AppData\\Roaming\\NuGet\\NuGet.Config",

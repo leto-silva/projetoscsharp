@@ -3,12 +3,11 @@ using System.Reflection;
 using projeto03.Models;
 using Newtonsoft.Json;
 
-bool? desejaReceberEmail;
+bool? desejaReceberEmail = null;
 
-Venda v1 = new Venda(1, "Caneta", 25.00M);
-string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
 
-Console.WriteLine(serializado);
+
+
 
 
 
