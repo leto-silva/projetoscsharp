@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 bool? desejaReceberEmail = true;
 
-if(desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+if(desejaReceberEmail!=null && desejaReceberEmail.Value)
 {
     Console.WriteLine("O usuário optou por receber e-mail");
 }
